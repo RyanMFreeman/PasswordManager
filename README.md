@@ -3,18 +3,18 @@
 Quick and easy PW manager. It tracks your username, password, and site it belongs to. It then stores all of that info into an encrypted .json file that is created after running the app.
 
 
-![Screenshot 2024-09-18 154353](https://github.com/user-attachments/assets/a6d26e05-c9c9-4f55-9fe0-c7c521b05468)
+![Screenshot 2024-10-02 054811](https://github.com/user-attachments/assets/896158fd-6a21-4f84-a8af-220d29f19709)
 
-Password creation function
+Save password function
 
-![Screenshot 2024-09-18 154412](https://github.com/user-attachments/assets/e9237666-f1c2-4369-83a4-3f3c2ee98f77)
+![Screenshot 2024-10-02 054904](https://github.com/user-attachments/assets/f0c71952-637d-475b-9db8-d62e9832cbe0)
 
 Password deletion function
 
-![Screenshot 2024-09-18 154422](https://github.com/user-attachments/assets/397e73cd-64a7-4701-93a2-4389bb5bae2d)
+![Screenshot 2024-10-02 054933](https://github.com/user-attachments/assets/b71371f7-215b-4361-828a-1b3e6d43c7b0)
 
 Password list function (will populate anything that shows up in the .json as long as the file can be decrypted. Otherwise it will create a new file.)
 
-![Screenshot 2024-09-18 154431](https://github.com/user-attachments/assets/286ec70b-12a5-47f9-8187-209ee60f13e1)
+![Screenshot 2024-10-02 055054](https://github.com/user-attachments/assets/9db1e001-d6b4-4fe1-b3b7-76e4b092e171)
 
-Password show function
+Generate password function
