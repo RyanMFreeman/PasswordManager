@@ -2,6 +2,8 @@
 
 Quick and easy PW manager. It tracks your username, password, and site it belongs to. It then stores all of that info into an encrypted .json file that is created after running the app.
 
+(side note: Make sure you store the .exe file in a folder to avoid clutter, as two files will populate upon the first time launching the program.)
+
 
 ![Screenshot 2024-10-02 054811](https://github.com/user-attachments/assets/896158fd-6a21-4f84-a8af-220d29f19709)
 
